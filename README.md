@@ -1,4 +1,4 @@
-# Moment-1 - Versionshantering med Git
+# Moment 1 - Versionshantering med Git
 Det här repositoryt är gjort som en del av en uppgift i första momentet i kursen **Webbutveckling II**.
 
 ## Målet med uppgiften:
